@@ -1,0 +1,24 @@
+AI Prompt History
+==================
+
+Full chronological list of prompts sent to the AI assistant for this task.
+
+1. I need to implement a Least Recently Used (LRU) Cache as a standalone assessment task. Requirements: Cache(capacity), get(key), put(key, value). get(key) returns the value or -1 if not found. A successful get() makes that key most recently used. put() inserts or updates; when capacity is exceeded, evict the least recently used entry. get() and put() should run in O(1) average time. Use plain JavaScript (Node.js) so I can run it directly in the terminal and screenshot real output. Set up the project and implement this.
+
+2. Does the README explain: which data structure I used and why, how LRU ordering is maintained, time complexity, space complexity, and how to run it? If any of these are missing, add them.
+
+3. npm start
+
+4. npm test
+
+5. npm start
+
+6. npm start
+
+7. npm start
+
+8. git init and commit this
+
+9. push it to github
+
+10. Create AI_PROMPT_HISTORY.txt in this repo with the full chronological list of prompts I sent you for this task, then commit and push it.
