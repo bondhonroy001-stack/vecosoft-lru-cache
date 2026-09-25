@@ -1,0 +1,11 @@
+{
+  "name": "vecosoft-lru-cache",
+  "version": "1.0.0",
+  "description": "LRU (Least Recently Used) Cache implementation in plain JavaScript",
+  "main": "src/LRUCache.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test test/*.test.js"
+  },
+  "license": "MIT"
+}
